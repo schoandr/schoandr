@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @schoandr
+- 👀 I’m interested in d&d, bbq, and all things nerdy...
+- 🌱 I’m currently learning how to be a web developer...
+- 💞️ I’m looking to collaborate on basic projects at this point and hopefully more down the road...
+
+<!---
+schoandr/schoandr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
